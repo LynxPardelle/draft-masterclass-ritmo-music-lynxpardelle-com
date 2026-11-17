@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Ritmo y escritura para percusión | Lynx Pardelle",
-    "description": "Relaciona lo que escuchas en un compás con la forma de escribirlo. Practica subdivisiones, valores rítmicos y tresillos con ejemplos de batería y percusión.",
+    "title": "Masterclass de ritmo, tresillos y lectura rítmica | Lynx Pardelle",
+    "description": "Aprende figuras, alfabeto rítmico y subdivisiones. Lee patrones y partituras para batería y percusión en una masterclass de 1 a 2 horas.",
     "canonical": "https://masterclass-ritmo.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-ritmo-r2-4357831920b33c72.webp",
+      "title": "Masterclass de ritmo, tresillos y lectura rítmica | Lynx Pardelle",
+      "description": "Aprende figuras, alfabeto rítmico y subdivisiones. Lee patrones y partituras para batería y percusión en una masterclass de 1 a 2 horas.",
+      "url": "https://masterclass-ritmo.music.lynxpardelle.com/",
+      "imageAlt": "Baquetas, caja de batería y metrónomo mecánico."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de ritmo, tresillos y lectura rítmica | Lynx Pardelle",
+      "description": "Aprende figuras, alfabeto rítmico y subdivisiones. Lee patrones y partituras para batería y percusión en una masterclass de 1 a 2 horas.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-ritmo-r2-4357831920b33c72.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-ritmo.music.lynxpardelle.com/#webpage",
+        "name": "Ritmo y escritura para percusión",
+        "description": "Aprende figuras, alfabeto rítmico y subdivisiones. Lee patrones y partituras para batería y percusión en una masterclass de 1 a 2 horas.",
+        "url": "https://masterclass-ritmo.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-ritmo.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-ritmo.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Ritmo y escritura para percusión",
+        "description": "Aprende figuras, alfabeto rítmico y subdivisiones. Lee patrones y partituras para batería y percusión en una masterclass de 1 a 2 horas.",
+        "url": "https://masterclass-ritmo.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-ritmo-r2-4357831920b33c72.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-ritmo.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
